@@ -2,3 +2,7 @@ jweb
 ====
 
 JORGE WEB
+
+La página del tonto de GERO
+
+Su portfolio 
