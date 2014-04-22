@@ -7,4 +7,5 @@ La página del tonto de GERO
 
 Su portfolio 
 
-GIT
+GIT 1
+GIT 2
