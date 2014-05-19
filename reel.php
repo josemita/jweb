@@ -10,11 +10,7 @@
        <script src="//code.jquery.com/jquery-1.10.2.js"></script>
    </head>
 
-   
-
-
-   <body>
-    <div class="fondoNegro">
+<div class="fondoNegro">
     </div>
     <div id="contenido">
     </div>
@@ -26,7 +22,11 @@
         });
     </script>
 
-   	<div class="contenedor">
+
+   <body>
+
+
+   	<header class="contenedor">
    		
       <div class="name">
         <a href="./index.php">
@@ -36,7 +36,7 @@
 
       <div class="uno">
         <div class="reel">
-           <a href="./index.php">
+           <a href="./reel.php">
             <img src="./images/reel.png">
           </a>
         </div>
@@ -46,11 +46,9 @@
             <img src="./images/about.png">
           </a>
         </div>
-
       </div>
-
       <div class="linkdn">
-         <a href="http://es.linkedin.com/in/jorgebm/en" target="_BLANK">
+         <a href="./index.php">
           <img src="./images/linkdn.png">
         </a>
       </div>
@@ -60,7 +58,7 @@
           CONTACTAR
         </a>
       </div>
-   	</div>
+   	</header>
 
    		<section id="container" class="contenedor">
    			<article class='video' onclick="showVimeo('85352556')">
